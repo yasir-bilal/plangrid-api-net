@@ -1,0 +1,10 @@
+C:\Users\bilalyas\Downloads\plangrid-api-net-master\plangrid-api-net-master\PlanGrid.Api.Net45Core\bin\Release\net8.0\PlanGrid.Api.deps.json
+C:\Users\bilalyas\Downloads\plangrid-api-net-master\plangrid-api-net-master\PlanGrid.Api.Net45Core\bin\Release\net8.0\PlanGrid.Api.dll
+C:\Users\bilalyas\Downloads\plangrid-api-net-master\plangrid-api-net-master\PlanGrid.Api.Net45Core\bin\Release\net8.0\PlanGrid.Api.pdb
+C:\Users\bilalyas\Downloads\plangrid-api-net-master\plangrid-api-net-master\PlanGrid.Api.Net45Core\obj\Release\net8.0\PlanGrid.Api.NetCore.csproj.AssemblyReference.cache
+C:\Users\bilalyas\Downloads\plangrid-api-net-master\plangrid-api-net-master\PlanGrid.Api.Net45Core\obj\Release\net8.0\PlanGrid.Api.NetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilalyas\Downloads\plangrid-api-net-master\plangrid-api-net-master\PlanGrid.Api.Net45Core\obj\Release\net8.0\PlanGrid.Api.NetCore.csproj.CoreCompileInputs.cache
+C:\Users\bilalyas\Downloads\plangrid-api-net-master\plangrid-api-net-master\PlanGrid.Api.Net45Core\obj\Release\net8.0\PlanGrid.Api.dll
+C:\Users\bilalyas\Downloads\plangrid-api-net-master\plangrid-api-net-master\PlanGrid.Api.Net45Core\obj\Release\net8.0\refint\PlanGrid.Api.dll
+C:\Users\bilalyas\Downloads\plangrid-api-net-master\plangrid-api-net-master\PlanGrid.Api.Net45Core\obj\Release\net8.0\PlanGrid.Api.pdb
+C:\Users\bilalyas\Downloads\plangrid-api-net-master\plangrid-api-net-master\PlanGrid.Api.Net45Core\obj\Release\net8.0\ref\PlanGrid.Api.dll

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PlanGrid.Api</id>
+    <version>1.0.0</version>
+    <title>PlanGrid.Api.Core</title>
+    <authors>PlanGrid.Api</authors>
+    <description>Package Description</description>
+    <copyright>Copyright ©  2016</copyright>
+    <tags>Plangrid.Api.Core</tags>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.CSharp" version="4.7.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+        <dependency id="Refit" version="4.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Configuration.ConfigurationManager" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Data.DataSetExtensions" version="4.5.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\bilalyas\Downloads\plangrid-api-net-master\plangrid-api-net-master\PlanGrid.Api.Net45Core\bin\Release\net8.0\PlanGrid.Api.dll" target="lib\net8.0\PlanGrid.Api.dll" />
+  </files>
+</package>
